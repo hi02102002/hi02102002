@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hoang Huy</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F74A4A&duration=3000&center=true&vCenter=true&multiline=true&width=1035&height=113&lines=I+interested+in+Frontend+deverloper;I'm+learing+Infomation+Technoglogy+;at+Ho+Chi+Minh+City+University+of+Transport)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F74A4A&duration=3000&center=true&vCenter=true&multiline=true&width=1035&height=113&lines=I+interested+in+Frontend+developer;I'm+learing+Infomation+Technoglogy+;at+Ho+Chi+Minh+City+University+of+Transport)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hi02102002&label=Profile%20views&color=0e75b6&style=flat" alt="hi02102002" /> </p>
 
